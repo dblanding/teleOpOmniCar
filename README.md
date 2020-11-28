@@ -10,8 +10,6 @@ Kinematically speaking, the car can be commanded to move in **X**, **Y**, and **
 
 ### Project Goal
 
-The goal of this project is to build an Omni-wheel type robotic car, wirelessly controled using a 3-axis joystick (in tele-operational mode). As the joystick is moved to any deflected postion, the car moves accordingly. Deflections of the joystick in all three degrees of freedom combine in superpositon to drive the car's motion. A larger deflection of the joystick results in a faster motion of the car.
+The goal of this project is to build an Omni-wheel type robotic car, wirelessly controled using a 3-axis joystick (in tele-operational mode). As the joystick is moved to any deflected postion, the car moves accordingly. Deflections of the joystick in all three degrees of freedom combine in superpositon to drive the car's motion. A larger deflection of the joystick results in a faster motion of the car. The videos folder contains a couple of MP4's shwoing the car in operation.
 
-[video1](videos/video1.MP4)
-
-[video2](videos/video2.MP4)
+![car & joystick](images/car&joystick.png)
